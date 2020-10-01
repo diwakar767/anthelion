@@ -1,3 +1,9 @@
+### Disclaimer!
+“This package is free software; the copyright holder gives unlimited permission to copy and/or distribute
+it, with or without modifications, as long as this notice is preserved. This package is distributed in the hope
+that it will be useful, but WITHOUT ANY WARRANTY, to the extent permitted by law; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.” 
+
 # nutch-anth
 Anthelion is a Nutch plugin for focused crawling of semantic data.
 The project is an open-source project released under the Apache License 2.0.
